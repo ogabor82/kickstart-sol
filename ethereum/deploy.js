@@ -4,7 +4,7 @@ const compiledFactory = require("./build/CampaignFactory.json");
 
 const provider = new HDWalletProvider(
   "rate uncle ice together begin repair situate pumpkin truth rocket able inhale",
-  "https://sepolia.infura.io/v3/a526136ddb3e4476a8688a011348c324 "
+  "https://sepolia.infura.io/v3/a526136ddb3e4476a8688a011348c324"
 );
 const web3 = new Web3(provider);
 
